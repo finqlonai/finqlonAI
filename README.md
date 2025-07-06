@@ -45,3 +45,7 @@ Feel free to:
 - 🐛 Report bugs via issues
 - 💡 Suggest features via discussions
 - 📧 Reach out for collaboration opportunities
+
+## CONTACT
+
+If you would like to reach me please contact me at: finqlonai@gmail.com
