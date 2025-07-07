@@ -3,7 +3,7 @@
 An AI financial data and analytics API built for developers. 
 
 ## 🎯Mission:
-    Current competitors charge way too much for the financial and data analysis you need (Ahem Bloomberg). At FinQlonAI we aim       to be:
+    Current competitors charge way too much for the financial and data analysis you need (Ahem Bloomberg). At FinQlonAI we aim to be:
 
     Intelligent: Because you need AI analysis as a priority, not raw data
     Fast: Because you need to be real-time to have an advantage
